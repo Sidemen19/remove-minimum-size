@@ -1,0 +1,7 @@
+{
+  "name": "Remove Minimum Size",
+  "description": "Removes the minimum window size enforced by Discord.",
+  "author": "lav#5778",
+  "version": "1.0.0",
+  "license": "MIT"
+}
